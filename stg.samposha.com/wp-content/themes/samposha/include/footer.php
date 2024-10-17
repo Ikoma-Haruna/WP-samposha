@@ -22,7 +22,7 @@
           </div>
           <div class="tr flex">
             <div class="th">役員</div>
-            <div class="td">代表取締役CEO小野裕之<br>取締役CCO内沼晋太郎</div>
+            <div class="td">代表取締役 内沼晋太郎</div>
           </div>
           <div class="tr flex">
             <div class="th">所在地</div>
